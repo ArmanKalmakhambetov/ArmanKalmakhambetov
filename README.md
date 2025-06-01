@@ -16,6 +16,13 @@
 
 ### 🧰 Tech Stack
 
+#### 🔙 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-green?style=flat&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+
 #### 💻 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -26,13 +33,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=purple)
 
-
-#### 🔙 Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=spring-boot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-green?style=flat&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 
 #### 🛢️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
